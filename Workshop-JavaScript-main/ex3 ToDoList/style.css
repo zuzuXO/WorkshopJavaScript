@@ -1,0 +1,21 @@
+.content{
+    background-color: #d7d4d4;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+}
+h1{
+    text-align: center;
+    color: crimson;
+    padding-bottom: 2cm;
+    font-size: xxx-large;
+}
+.licontent{
+    cursor: pointer;
+    background-color: white;
+}
+#tasktext{
+    font-weight: bold;
+    color: darkseagreen;
+    font-size: larger;
+}

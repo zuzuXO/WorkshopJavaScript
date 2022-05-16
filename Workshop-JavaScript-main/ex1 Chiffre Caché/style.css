@@ -1,0 +1,19 @@
+.container{
+  margin-top: 7cm;
+  background-color: lavenderblush;
+  border: lavenderblush 2px solid;
+  border-radius: 2cm;
+}
+label {
+  font-weight: bold;
+  color: cadetblue;
+}
+input {
+  background-color: whitesmoke;
+  border-color: aliceblue;
+  text-align: center;
+}
+#btn {
+  height: 30px;
+  font-weight: bold;
+}
